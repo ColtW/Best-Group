@@ -1,119 +1,140 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="UMLDiagram.Garage">
-    <Position X="2.5" Y="1" Width="1.5" />
+    <Position X="4.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Garage.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.Employee">
-    <Position X="1.5" Y="2.75" Width="1.5" />
+    <Position X="1.5" Y="5.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Employee.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.Operator">
-    <Position X="0.5" Y="4.25" Width="1.5" />
+    <Position X="0.5" Y="6.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Operator.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.SecurityGuard">
-    <Position X="2.5" Y="4.25" Width="1.5" />
+    <Position X="2.5" Y="6.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>SecurityGuard.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.LicensePlateRecognition">
-    <Position X="7.25" Y="6" Width="1.5" />
+    <Position X="7.75" Y="9.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>LicensePlateRecognition.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.RegisteredCustomer">
-    <Position X="4.75" Y="4.25" Width="1.5" />
+    <Position X="4.75" Y="6.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>RegisteredCustomer.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.CurrentParkingReservation">
-    <Position X="5.5" Y="6" Width="1.5" />
+    <Position X="5.75" Y="9.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CurrentParkingReservation.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.CustomerPastTransaction">
-    <Position X="2" Y="6" Width="1.5" />
+    <Position X="2.25" Y="9.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CustomerPastTransaction.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.ParkingSpotSensor">
-    <Position X="8.75" Y="2.75" Width="1.5" />
+    <Position X="11.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ParkingSpotSensor.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.GroundLevelParking">
-    <Position X="7" Y="2.75" Width="1.5" />
+    <Position X="9.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>GroundLevelParking.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.CustomerInformation">
-    <Position X="3.75" Y="6" Width="1.5" />
+    <Position X="4" Y="9.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CustomerInformation.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.Fee">
-    <Position X="3.5" Y="2.75" Width="1.5" />
+    <Position X="0.5" Y="9.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Fee.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.VehicleElevator">
-    <Position X="5.25" Y="2.75" Width="1.5" />
+    <Position X="7.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>VehicleElevator.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="UMLDiagram.GarageStatistics">
-    <Position X="4.75" Y="1" Width="1.5" />
+    <Position X="8.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>GarageStatistics.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="UMLDiagram.Person">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UMLDiagram.Customer">
+    <Position X="5.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UMLDiagram.GuestCustomer">
+    <Position X="6.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GuestCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Interface Name="UMLDiagram.IWebBrowser">
-    <Position X="9.75" Y="0.5" Width="1.5" />
+    <Position X="13.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IWebBrowser.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="UMLDiagram.ISmartphoneApp">
-    <Position X="9.75" Y="1.5" Width="1.5" />
+    <Position X="13.25" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ISmartphoneApp.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="UMLDiagram.IConsole">
-    <Position X="8" Y="0.5" Width="1.5" />
+    <Position X="13.25" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IConsole.cs</FileName>

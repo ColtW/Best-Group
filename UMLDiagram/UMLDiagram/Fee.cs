@@ -5,7 +5,7 @@ using System.Text;
 
 namespace UMLDiagram
 {
-    public class Fee : Garage
+    public class Fee : RegisteredCustomer
     {
     }
 }

@@ -47,13 +47,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CurrentParkingReservation.cs" />
+    <Compile Include="Customer.cs" />
     <Compile Include="CustomerInformation.cs" />
     <Compile Include="CustomerPastTransaction.cs" />
     <Compile Include="Fee.cs" />
     <Compile Include="GarageStatistics.cs" />
     <Compile Include="GroundLevelParking.cs" />
+    <Compile Include="GuestCustomer.cs" />
     <Compile Include="IConsole.cs" />
     <Compile Include="ParkingSpotSensor.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="RegisteredCustomer.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="Form1.cs">

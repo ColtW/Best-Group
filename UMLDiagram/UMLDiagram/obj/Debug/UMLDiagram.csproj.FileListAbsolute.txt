@@ -1,1 +1,2 @@
 c:\users\josiah\documents\visual studio 2015\Projects\UMLDiagram\UMLDiagram\bin\Debug\UMLDiagram.exe.config
+C:\Users\monkey\Source\Repos\Best-Group\UMLDiagram\UMLDiagram\bin\Debug\UMLDiagram.exe.config
